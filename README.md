@@ -2,7 +2,10 @@
 
 ![oj.uz logo](114.png)
 
-Donate: [ko-fi](https://ko-fi.com/ojuz_official) | [Toss](https://bnc.lt/RErc/ZuhRc6DEP4)
+## Donate
+
+- [ko-fi](https://ko-fi.com/ojuz_official) (supports Paypal)
+- [Toss](https://bnc.lt/RErc/ZuhRc6DEP4) (works in South Korea)
 
 ## Suggestions
 
