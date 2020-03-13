@@ -1,7 +1,7 @@
 ---
 name: Problem request
 about: Suggest new problems to be uploaded
-title: PROB
+title: "[PROB]"
 labels: ''
 assignees: ''
 
