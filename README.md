@@ -1,5 +1,7 @@
 # ojuz-contribute
 
+![oj.uz logo](114.png)
+
 Donate: [ko-fi](https://ko-fi.com/ojuz_official) | [Toss](https://bnc.lt/RErc/ZuhRc6DEP4)
 
 ## Suggestions
